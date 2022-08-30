@@ -4,7 +4,7 @@ This "magic bartender" features a web API that allows users to search for cockta
 
 **Link to project:** https://magic-bartender.netlify.app/
 
-<!-- ![alt tag](Image needed!) -->
+![Website preview](https://i.imgur.com/Gvs1Xeh.png)
 
 ## How It's Made:
 
